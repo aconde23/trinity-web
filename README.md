@@ -1,2 +1,2 @@
-# trinity-web
+# website
 Website for Essential Information Technology class
